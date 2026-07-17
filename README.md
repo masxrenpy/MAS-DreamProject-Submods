@@ -60,7 +60,7 @@ Inspirado en Mario Party. Escoge un detonador y espera que no sea el que haga ex
 
 ## ⛈ Storm Chasers
 
-*(Captura aquí)*
+<img src="Images/storm_chasers.png" width="900">
 
 Haz crecer tu planta antes que Monika encontrando la lluvia en el tablero.
 
@@ -76,7 +76,7 @@ Explora una antigua mansión, resuelve acertijos y descubre los secretos ocultos
 
 ## 📢 Green Alert
 
-*(Captura aquí)*
+<img src="Images/green_alert.png" width="900">
 
 Pon a prueba tus reflejos presionando el botón justo cuando la señal cambie a verde.
 
@@ -84,7 +84,7 @@ Pon a prueba tus reflejos presionando el botón justo cuando la señal cambie a 
 
 ## 🃏 Chibika Cardgame
 
-*(Captura aquí)*
+<img src="Images/chibika_cardgame.png" width="900">
 
 Selecciona cartas con efectos especiales e intenta conseguir más puntos que Monika antes de que termine la partida.
 
@@ -92,7 +92,7 @@ Selecciona cartas con efectos especiales e intenta conseguir más puntos que Mon
 
 ## 😛 Memoriza Emotes
 
-*(Captura aquí)*
+<img src="Images/memorize_emotes.png" width="900">
 
 Memoriza ocho emotes en diez segundos y empareja correctamente antes de que termine el tiempo.
 
@@ -100,7 +100,7 @@ Memoriza ocho emotes en diez segundos y empareja correctamente antes de que term
 
 ## 💣 Timer Boom
 
-*(Captura aquí)*
+<img src="Images/timer_boom.png" width="900">
 
 Calcula el paso del tiempo con precisión. Cada error hará crecer el globo de Chibika hasta que... ¡Boom!
 
@@ -108,7 +108,7 @@ Calcula el paso del tiempo con precisión. Cada error hará crecer el globo de C
 
 ## 🏁 Dokis Racing
 
-*(Captura aquí)*
+<img src="Images/dokis_racing.png" width="900">
 
 Compite contra Monika utilizando el teclado o los botones virtuales para llegar primero a la meta.
 
@@ -146,7 +146,7 @@ Una versión alternativa de la habitación con una pequeña animación de Chibik
 
 ## 🔫 Doki Gun
 
-*(Captura aquí)*
+<img src="Images/dk_fake.png" width="900">
 
 Un pequeño extra lleno de sorpresas que invita al jugador a experimentar.
 
