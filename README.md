@@ -1,6 +1,6 @@
 # Proyecto Dream
 
-<img src="images/banner.png" width="900">
+<img src="Images/banner.png" width="900">
 
 > Una colección de minijuegos y contenido adicional para **Monika After Story**.
 
@@ -14,7 +14,7 @@ Actualmente incluye ocho minijuegos diferentes junto con varios extras diseñado
 
 ---
 
-## 🌟 CaracarchivoShinoyashiinoyashShinoinoy.png" width="900">
+## 🌟 Características
 
 - 🎮 8 minijuegos
 - 💝 Sistema de interacción
