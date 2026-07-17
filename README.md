@@ -16,6 +16,8 @@ Actualmente incluye ocho minijuegos diferentes junto con varios extras diseñado
 
 ## 🌟 Características
 
+<img src="Images/menu.png" width="900">
+
 - 🎮 8 minijuegos
 - 💝 Sistema de interacción
 - 📚 Relatos de los Mitos de Cthulhu
