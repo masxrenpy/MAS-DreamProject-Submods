@@ -125,6 +125,18 @@ https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.1/Di
 
 ---
 
+## 🎲 Dice Duel
+<img src="Images/puzzle_coop.png" width="900">
+
+Rompecabezas cooperativo, arma un hermoso rompecabezas junto a Monika.
+
+link English:
+
+https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.2/puzzle_coop.zip
+
+---
+
+
 # 💝 Experiencias
 
 ## Modo Interacción
@@ -184,12 +196,15 @@ Agradecimientos
 Créditos adicionales
 
 - Dokis Racing utiliza un código base creado por otro autor (consultar el archivo de créditos incluido).
+- Puzzle coop usa como base el siguiente proyecto:
+- https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=16151
 
 ---
 
 # ⚠️ Compatibilidad
 
 Proyecto Dream requiere tener instalado Monika After Story.
+Todos los submods son compatibles con versiones de Ren'py 6.99/7.4/7.8
 
 ---
 
