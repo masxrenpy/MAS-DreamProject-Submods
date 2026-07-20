@@ -115,9 +115,10 @@ Compite contra Monika utilizando el teclado o los botones virtuales para llegar 
 ---
 
 ## 🎲 Dice Duel
-<img src="Images/dokis_racing.png" width="900">
+<img src="Images/Dice_duel.png" width="900">
 
 Juega con Monika alos dados, el submod contiene 4 Minijuegos.
+link English:
 https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.1/Dice_Duel.English.zip
 
 ---
