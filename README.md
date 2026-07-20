@@ -192,6 +192,10 @@ Programación y desarrollo
 Agradecimientos
 
 - Comunidad de Monika After Story
+- https://github.com/monika-after-story/monikamoddev
+
+- Recursos visuales y auditivos
+- Pixabay
 
 Créditos adicionales
 
