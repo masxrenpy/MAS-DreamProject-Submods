@@ -125,7 +125,7 @@ https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.1/Di
 
 ---
 
-## 🎲 Dice Duel
+## 🎲 Puzzle coop
 <img src="Images/puzzle_coop.png" width="900">
 
 Rompecabezas cooperativo, arma un hermoso rompecabezas junto a Monika.
