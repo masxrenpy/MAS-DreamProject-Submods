@@ -10,7 +10,6 @@ Todos los cambios importantes de Proyecto Dream serán registrados en este archi
 
 - Chibika's Big Blast
 - Storm Chasers
-- Escape Room
 - Green Alert
 - Chibika Cardgame
 - Memoriza Emotes
@@ -19,15 +18,11 @@ Todos los cambios importantes de Proyecto Dream serán registrados en este archi
 
 ### Extras
 
-- Sistema de interacción
-- Mitos de Cthulhu
 - Spaceroom
-- Doki Gun
 - Pack de figuras Chibika
 
 ### Idiomas
 
-- Español
 - Inglés
 
 ### Compatibilidad
