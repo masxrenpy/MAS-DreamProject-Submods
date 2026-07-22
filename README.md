@@ -134,6 +134,9 @@ link English:
 
 https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.2/puzzle_coop.zip
 
+Link Español:
+https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.2/Rompecabezas_coop.zip
+
 ---
 
 
