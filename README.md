@@ -132,10 +132,11 @@ Rompecabezas cooperativo, arma un hermoso rompecabezas junto a Monika.
 
 link English:
 
-https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.2/puzzle_coop.zip
+https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.5pz-coop/Puzzle_coop.zip
 
 Link Español:
-https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.2/Rompecabezas_coop.zip
+
+https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.5pz-coop/Rompecabezas_coop.zip
 
 ---
 
