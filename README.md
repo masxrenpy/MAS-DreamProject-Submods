@@ -181,9 +181,13 @@ Un pequeño extra lleno de sorpresas que invita al jugador a experimentar.
 
 ## 🗽 Pack de figuras Chibika
 
-*(Captura aquí)*
+<img src="Images/pack_figuras_chibika.jpeg" width="900">
 
 Colección de diez figuras decorativas para el escritorio de Monika.
+
+link en español:
+
+https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.4/pack_figuras_chibika.zip
 
 ---
 
