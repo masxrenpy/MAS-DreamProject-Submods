@@ -140,6 +140,11 @@ https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.5pz-
 
 ---
 
+## 🔫 Doki Gun
+<img src="Images/dk_fake.png" width="900">
+
+Un juego inspirado en Wild gunman de la NES, compite contra Monika para saber quién manda en esta simulación de duelo a muerte en el viejo oeste(aunque en realidad están en algún lugar que tenga pirámides)
+
 
 # 💝 Experiencias
 
