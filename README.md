@@ -191,7 +191,7 @@ Agrega controles Touch al submod de tetris, más una traducción al español. Se
 
 Repositorio original:
 
-
+https://github.com/seraphim2022/MAS_learn_together
 
 Link para los controles Touch
 
