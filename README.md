@@ -185,8 +185,21 @@ Monika narra diversos relatos inspirados en los Mitos de Cthulhu utilizando imá
 Una versión alternativa de la habitación con una pequeña animación de Chibika.
 
 ---
+## 🔲 Tetris(controles Touch Android)
 
-## 🔫 Doki Gun
+Agrega controles Touch al submod de tetris, más una traducción al español. Se requiere el submod original.
+
+Repositorio original:
+
+
+
+Link para los controles Touch
+
+https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/Extra0/Play.Tetris.with.Monika.zip
+
+---
+
+## 🔫 Submod fake
 
 <img src="Images/dk_fake.png" width="900">
 
