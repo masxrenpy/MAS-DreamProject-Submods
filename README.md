@@ -219,6 +219,12 @@ https://github.com/masxrenpy/MAS-DreamProject-Submods/releases/download/1.0.4/pa
 
 ---
 
+## 👋Saludos especiales
+
+Colección de saludos (experimental)
+
+---
+
 # 🤝 Créditos
 
 Programación y desarrollo
@@ -238,6 +244,8 @@ Créditos adicionales
 - Dokis Racing utiliza un código base creado por otro autor (consultar el archivo de créditos incluido).
 - Puzzle coop usa como base el siguiente proyecto:
 - https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=16151
+- Saludo especial usa Snow factory por:
+- https://tofurocks.itch.io/snowfall-gui
 
 ---
 
